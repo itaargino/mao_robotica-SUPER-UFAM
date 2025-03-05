@@ -28,7 +28,7 @@ Nosso projeto foi um estudo gradual, iniciamos usando Arduino e migramos para ES
 
 # Simulação do sistema
 
-Use como base para o esquema do projeto o [modelo de simulação](simulacao.md)
+Use como base para o esquema do projeto o [modelo de simulação](docs/simulacao.md)
 
 # Próximos Passos
 
