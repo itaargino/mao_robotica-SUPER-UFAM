@@ -26,6 +26,10 @@ Nosso projeto foi um estudo gradual, iniciamos usando Arduino e migramos para ES
 - Arduino IDE (para programação do Arduino/ESP32)
 - Fritzing (para simulação do projeto)
 
+# Simulação do sistema
+
+Use como base para o esquema do projeto o [modelo de simulação](simulacao.md)
+
 # Próximos Passos
 
 - Substituir uso de sensores flexíveis por biossensores avançados.

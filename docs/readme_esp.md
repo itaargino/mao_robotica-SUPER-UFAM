@@ -29,7 +29,7 @@ O projeto com a ESP32 consiste em uma mão robótica controlada remotamente por 
 ## Preparo inicial
 
 1. Realize a montagem do prótotico conforme indicado ([Modelos Compatíveis](compatibilidade_3d.md))
-2. Use como base o modelo de simulação para [ESP32](simulacao_esp.md)
+2. Use como base para o esquema o [modelo de simulação](simulacao.md)
 3. Conecte ambas placas ao Computador com Arduino IDE
 4. Configure e instale as bibliotecas necesárias para o funcionamento da ESP32
 5. Ligue o roteador e ajuste o SSID, Password e porta nos códigos conforme o desejado

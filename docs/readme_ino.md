@@ -26,7 +26,7 @@ O projeto com Arduino consiste em uma mão robótica controlada por meio de uma 
 ## Preparo inicial
 
 1. Realize a montagem do prótotico conforme indicado ([Modelos Compatíveis](compatibilidade_3d.md))
-2. Use como base o modelo de simulação para [Arduino](simulacao_ino.md)
+2. Use como base para o esquema o [modelo de simulação](simulacao.md)
 3. Conecte o Arduino ao Computador com Arduino IDE
 4. Configure e instale as bibliotecas necesárias para o funcionamento do Arduino
 
