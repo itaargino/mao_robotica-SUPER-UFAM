@@ -37,7 +37,7 @@ O projeto com Arduino consiste em uma mão robótica controlada por meio de uma 
 
 ## Calibração
 
-1. Por se tratar de sensores simples, recomendamos uma calibração manual de cada sensor por meio da testagem em cada um dos dedos
+Por se tratar de sensores simples, recomendamos uma calibração manual de cada sensor por meio da testagem em cada um dos dedos
 ```cpp
 int inputMin[5] = {3900, 3400, 3000, 3600, 3000};
 int inputMax[5] = {4095, 4095, 4095, 4095, 4095};

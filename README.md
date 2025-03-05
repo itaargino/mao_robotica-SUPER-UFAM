@@ -24,6 +24,7 @@ Nosso projeto foi um estudo gradual, iniciamos usando Arduino e migramos para ES
 # Software
 
 - Arduino IDE (para programação do Arduino/ESP32)
+- Fritzing (para simulação do projeto)
 
 # Próximos Passos
 
