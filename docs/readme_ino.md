@@ -32,7 +32,7 @@ O projeto com Arduino consiste em uma mão robótica controlada por meio de uma 
 
 ## Upload
 
-1. Carregue o código da `mao_robotica_ino.ino` na ESP32 da mão robótica.
+1. Carregue o código da `mao_robotica_ino.ino` no Arduino.
 5. Teste os movimentos!
 
 ## Calibração
