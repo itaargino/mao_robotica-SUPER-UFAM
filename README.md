@@ -1,4 +1,4 @@
-# Protótipo Biomédico: Mão Robótica - Usando Arduino/ESP32
+# Protótipo de Biomédica: Mão Robótica - Usando Arduino/ESP32
 
 > Este projeto foi resultado de um estudo graduado produzido a partir do Projeto SUPER realizado na UFAM durante 2024-2025.  
 
