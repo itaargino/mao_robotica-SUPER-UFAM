@@ -8,6 +8,7 @@ O projeto consiste em uma mão robótica controlada por meio de uma luva equipad
 
 ```
 /mão-robotica-esp32
+│-- /testcode              # Código-fonte do projeto
 │-- /src              # Código-fonte do projeto
 │-- /docs             # Documentação e relatórios
 │-- /images           # Imagens do protótipo e esquemas
