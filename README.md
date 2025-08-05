@@ -8,7 +8,7 @@ O projeto consiste em uma mão robótica controlada por meio de uma luva equipad
 
 ```
 /mão-robotica-esp32
-│-- /testcode              # Código-fonte do projeto
+│-- /testcode         # Código prontos para teste de componentes
 │-- /src              # Código-fonte do projeto
 │-- /docs             # Documentação e relatórios
 │-- /images           # Imagens do protótipo e esquemas
@@ -23,9 +23,9 @@ Nosso projeto foi um estudo gradual, iniciamos usando Arduino e migramos para ES
 - [Como rodar na ESP32](docs/readme_esp.md)
 
 # Software
-
-- Arduino IDE (para programação do Arduino/ESP32)
-- Fritzing (para simulação do projeto)
+- Linguagem C++
+- Arduino IDE
+- Fritzing
 
 # Simulação do sistema
 
