@@ -15,14 +15,15 @@ O projeto consiste em uma mão robótica controlada por meio de uma luva equipad
 │-- README.md         # Este arquivo
 │-- LICENSE           # Licença do projeto
 ```
-# Instalação
-Os códigos estão disponíveis na aba de [releases](https://github.com/itaargino/mao_robotica-SUPER-UFAM/releases) e são de fácil identificação.
 
-# Rodar em Arduino ou ESP32? 
+# Documentação: Rodar em Arduino ou ESP32? 
 
 Nosso projeto foi um estudo gradual, iniciamos usando Arduino e migramos para ESP32. Apesar de apresentarem funcionalidades semelhantes, a ESP32 se torna mais vantajosa. No entanto, aqui apresentamos o projeto com os dois microcontroladores.
 - [Como rodar no Arduino](docs/readme_ino.md) (Sem suporte Wi-fi)
 - [Como rodar na ESP32](docs/readme_esp.md)
+
+# Instalação
+Os códigos estão disponíveis na aba de [releases](https://github.com/itaargino/mao_robotica-SUPER-UFAM/releases) e são de fácil identificação, no entanto sugiro que leia a documentação no tópico anterior antes de utilizar.
 
 # Software
 - Linguagem C++
