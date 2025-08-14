@@ -13,6 +13,7 @@ O projeto com a ESP32 consiste em uma mão robótica controlada remotamente por 
 - Modelo mão humana ([Modelos Compatíveis](compatibilidade_3d.md))
 - Linha elástica (para estrutura) e Linha de poliamidas (0.9 mm em média)
 - 2x ESP32
+- 2x placas PCB
 - 5X Sensores de pressão flexíveis
 - 5x Servomotores (MG90 ou semelhante)
 - Jumpers, resistores 10k (ou conforme seu sensor flexível) e materiais para conexão
